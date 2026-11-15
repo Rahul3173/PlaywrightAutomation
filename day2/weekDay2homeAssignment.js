@@ -1,5 +1,5 @@
 // PALINDROME
-/* 
+
 //Method 1
 let palindrome="malayalam"
 let temp=palindrome.split("");
@@ -31,13 +31,13 @@ if (palindrome2==reverse2){
     
 }else{
     console.log("Its not a palindrome")
-} */
+} 
 
 //STRING ANAGRAM    
-/* let input = "Hello world "
+ let input = "Hello world "
 lastword=input.split(" ")
 console.log(`The last word is ${lastword[1]} with length ${lastword[1].length}`) */
-/* 
+
 let input2=" fly me to the moon "
 lastword2=input2.trim()
 lastword2=lastword2.split(" ")
@@ -54,9 +54,9 @@ if (a==b){
     console.log("Its an anagram")
 }else{
     console.log("Its not an anagram")
-} */
+} 
 
-/* // ODD EVEN 
+ // ODD EVEN 
 oddEven(5)
 
 function oddEven(num){
@@ -65,11 +65,11 @@ function oddEven(num){
     }else{
         console.log("The given number is : Odd")
     }
-} */
+} 
 
 // Positive / Negative / Zero
 
-/* Number(7)
+ Number(7)
 function Number(i){
     if(i==0){
         console.log("neutral")
